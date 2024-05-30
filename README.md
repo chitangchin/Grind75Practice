@@ -3,7 +3,8 @@
 ### Schedule
 - Total Time: 26 Weeks
 - Time per Week: 3 hours per week
-- 1 Question a weekday
+
+At least 1 Question a weekday! Some days I catch myself doing 2 or 3. If I miss one day, it is easy to recover and get back on track.
 
 ### Goal
 
