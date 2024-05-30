@@ -42,11 +42,11 @@ npm test twoSum
 
 ### My Approach to Algorithm Studying
 
-![saved-favorite-homer](https://github.com/chitangchin/Grind75Practice/assets/96362668/f50008cb-4506-48ba-95e1-16d92d43bc6f)
+<img src="https://github.com/chitangchin/Grind75Practice/assets/96362668/f50008cb-4506-48ba-95e1-16d92d43bc6f" width="350px">
 
 **Brainless repetition** is a waste of time and resources in my opinion.
 
-So my approach with Grind 91 is to do the following:
+My approach with Grind 91 is to do the following:
 - Identify real use cases
 - Understand Algorithm and Data Structure Patterns
 
