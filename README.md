@@ -7,11 +7,16 @@
 
 ### Goal
 
-This list is adapted to my work and life schedule and is sustainable long term.
+This list is adapted to my work and life schedule and is sustainable long term for me.
 
 ![200w](https://github.com/chitangchin/Grind75Practice/assets/96362668/57aa35fe-3c74-4fa1-9d3a-d45e3abb0572)
 
 ### Table of Content
+- [Prerequisites](#prerequisites)
+- [How To Get Started](#how-to-get-started)
+- [My Approach to Algorithm Studying](#my-approach-to-algorithm-studying)
+- Week 1
+  - [TwoSum](https://github.com/chitangchin/Grind75Practice/blob/main/week%201/twoSum.js)
 
 ### Prerequisites
 - VSCode
@@ -34,7 +39,7 @@ npm test twoSum
 ```
 - This will test only the twoSum algorithm.
 
-### My approach to Algorithm studying
+### My Approach to Algorithm Studying
 
 Brainless studying is a waste of time and resources in my opinion.
 
