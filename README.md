@@ -42,10 +42,14 @@ npm test twoSum
 
 ### My Approach to Algorithm Studying
 
-Brainless studying is a waste of time and resources in my opinion.
+![saved-favorite-homer](https://github.com/chitangchin/Grind75Practice/assets/96362668/f50008cb-4506-48ba-95e1-16d92d43bc6f)
+
+**Brainless repetition** is a waste of time and resources in my opinion.
 
 So my approach with Grind 91 is to do the following:
 - Identify real use cases
 - Understand Algorithm and Data Structure Patterns
 
-However, there is a fine line that I have to avoid for falling into the hole of Data Structures and Algos. I may end up wasting a lot of time if I do this.
+You will find within each problem solved is a <ins>Real World Case scenario</ins> if applicable and the <ins>General Pattern</ins>
+
+**However**, there is a fine line that I have to avoid for falling into the hole of Data Structures and Algos. I may end up wasting a lot of time if I do this.
