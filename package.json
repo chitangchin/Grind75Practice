@@ -1,0 +1,17 @@
+{
+  "name": "grind75practice",
+  "version": "1.0.0",
+  "description": "Grind 75 Practice Problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "Chitangchin",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
